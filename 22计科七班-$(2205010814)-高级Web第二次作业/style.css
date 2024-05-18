@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    width: 1440px;
+    height: 8000px;
+    background-image: url(images/h1.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin: 0 auto;
+}
+
+.jiaobiao {
+    height: 50px;
+    width: 1440px;
+    font-size: 40px;
+    padding: 30px 75px;
+    color: #fff;
+}
+
+.dz1 {
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+    background: none;
+    color: #fff;
+    border: 2px solid #fff;
+    margin-left: 1000px;
+}
+
+.dz2 {
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+    background: none;
+    color: #fff;
+    border: 2px solid #fff;
+    margin-left: 10px;
+}
+
+.h1 {
+    width: 1440px;
+    height: 150px;
+    text-align: center;
+    font-size: 75px;
+    color: #fff;
+}
+
+.kouhao {
+    width: 1440px;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+
+.bt1 {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    color: rgb(0, 153, 255);
+    border: 2px solid rgb(0, 153, 255);
+    text-align: center;
+    margin-left: 620px;
+    letter-spacing: 8px;
+}
+
+.t1 {
+    width: 1440px;
+    height: 650px;
+    background-image: url(images/h2.png);
+    background-repeat: no-repeat;
+    background-position: 80px 100px;
+
+}
+
+.t2 {
+    width: 1440px;
+    height: 650px;
+    background-image: url(images/h4.png);
+    background-repeat: no-repeat;
+    background-position: 80px 100px;
+}
+
+.lt1 {
+    margin-left: 80px;
+    font-size: 50px;
+
+}
+
+.lt2 {
+    margin-left: 80px;
+    font-size: 50px;
+}
+
+.lt3 {
+    margin-left: 130px;
+    font-size: 35px;
+}
+
+.lt4 {
+    margin-left: 80px;
+    font-size: 35px;
+}
+
+.llt1 {
+    margin-left: 130px;
+    font-size: 24px;
+}
+
+.llt2 {
+    margin-left: 80px;
+    font-size: 24px;
+}
+
+.llt3 {
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.llt4 {
+    margin-left: 130px;
+    font-size: 24px;
+}
+
+.bt2 {
+    width: 1280px;
+    height: 26px;
+    color: rgb(190, 193, 193);
+    border: 2px solid rgb(190, 193, 193);
+    text-align: center;
+    margin-left: 80px;
+}
+
+hr {
+    width: 1280px;
+    height: 1px;
+    color: rgb(190, 193, 193);
+    margin-left: 80px;
+}
+
+.jiewei {
+    height: 100px;
+    width: 1440px;
+    text-align: center;
+    line-height: 100px;
+    margin-top: 50px;
+    background-color: rgb(219, 224, 224);
+
+}
